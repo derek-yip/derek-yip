@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=300&width=435&lines=Junior+Website+Developer%2F+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I am final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
+<h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I study final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,6 +35,12 @@
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+
+### 💻 Animation libraries
+<a href="https://github.com/greensock/GSAP"><img alt="GSAP" src="https://lyrasoft.s3.amazonaws.com/simular/images/share/2b44928ae11fb9384c4cf38708677c48.jpg?5f7c1ebbdd588"></a>
+
+## <a href="https://animejs.com"><img src="/documentation/assets/img/animejs-v3-logo-animation.gif" width="150" alt="anime-js-v3-logo"/></a>
+
 
 ### 🗄️ Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

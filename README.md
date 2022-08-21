@@ -58,7 +58,3 @@
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derek-yip&show_icons=true&locale=en&layout=compact" alt="derek-yip" /></p>
-📫 Welcome to Email me at **derek.yipkwokchun@gmail.com**

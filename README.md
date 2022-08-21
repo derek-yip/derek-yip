@@ -37,10 +37,11 @@
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 
 ### 💻 Animation libraries
+<a href="https://github.com/greensock/GSAP"><p>GSAP</p></a>
 <a href="https://github.com/greensock/GSAP"><img alt="GSAP" src="https://lyrasoft.s3.amazonaws.com/simular/images/share/2b44928ae11fb9384c4cf38708677c48.jpg?5f7c1ebbdd588"></a>
 
-## <a href="https://animejs.com"><img src="/documentation/assets/img/animejs-v3-logo-animation.gif" width="150" alt="anime-js-v3-logo"/></a>
-
+<a href="https://github.com/juliangarnier/anime"><p>AnimeJS</p></a>
+<a href="https://github.com/juliangarnier/anime"><img alt="GSAP" src="https://active-vision.ru/wa-data/public/blog/img/animejs-post-1.jpg"></a>
 
 ### 🗄️ Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

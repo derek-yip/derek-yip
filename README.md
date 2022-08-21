@@ -19,8 +19,10 @@ Derek Yip
 
 ### 👨 Social Media
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/derekyip-74272921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/derekyip-74272921b" height="30" width="40" /></a>
-<a href="https://instagram.com/yk_derek_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yk_derek_c" height="30" width="40" /></a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fyk_derek_c%2F%3Fhl%3Den">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fderekyip-74272921b%2F">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D55339120%26text%3DPlease%2520Find%2520Me%2520if%2520You%2520Need">
+
 </p>
 
 ### 👨‍💻 Programming and markup languages

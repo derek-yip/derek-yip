@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=184BF7&background=FFE0A000&width=520&height=100&lines=Welcome+To+My+Profile" alt="Typing SVG" /></a>
+   <img alt="Twitter URL" src="https://user-images.githubusercontent.com/101183496/185799998-d500c405-70c6-4619-ad5f-8419f27550b2.png">
 </h1>
 
 <p align="center">

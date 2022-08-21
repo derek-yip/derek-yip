@@ -36,12 +36,15 @@
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 
-### 💻 Animation libraries
+### 💻 External Layout / Animation libraries
 <a href="https://github.com/greensock/GSAP"><h1>GSAP</h1></a>
 <a href="https://github.com/greensock/GSAP"><img alt="GSAP" src="https://lyrasoft.s3.amazonaws.com/simular/images/share/2b44928ae11fb9384c4cf38708677c48.jpg?5f7c1ebbdd588"></a>
 
 <a href="https://github.com/juliangarnier/anime"><h1>AnimeJS</h1></a>
 <a href="https://github.com/juliangarnier/anime"><img alt="GSAP" src="https://active-vision.ru/wa-data/public/blog/img/animejs-post-1.jpg"></a>
+
+<a href="https://github.com/locomotivemtl/locomotive-scroll"><h1>Locomotive Scroll</h1></a>
+<a href="https://github.com/locomotivemtl/locomotive-scroll"><img alt="Locomotive Scroll" src="https://user-images.githubusercontent.com/36262701/139226385-971c0930-45f2-4ab3-9f9f-a6b33734d992.png"></a>
 
 ### 🗄️ Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

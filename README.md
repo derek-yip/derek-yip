@@ -1,5 +1,5 @@
 <h1 align="center">My Profile</h1>
-<h3 align="center">Hello 👋👋, I am Yip Kwok Chun, a passionate frontend developer from Hong Kong. I am final year undergraduate student studing BBA Information Management as major with Creative Media as minor </h3>
+<h3 align="center">Hello 👋👋, I am Yip Kwok Chun, a passionate frontend developer from Hong Kong. I am final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

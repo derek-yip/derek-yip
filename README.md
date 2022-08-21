@@ -13,7 +13,7 @@
 <h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I study final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
 
 
-<h3 align="left">Connect with me:</h3>
+### 👨 Social Media
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/derekyip-74272921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/derekyip-74272921b" height="30" width="40" /></a>
 <a href="https://instagram.com/yk_derek_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yk_derek_c" height="30" width="40" /></a>

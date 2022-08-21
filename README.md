@@ -1,6 +1,10 @@
 <h1 align="center">My Profile</h1>
 
 <p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800">
+</p>
+
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=300&width=435&lines=Junior+Website+Developer%2F+Software+Developer" alt="Typing SVG" /></a>
 </p>
 

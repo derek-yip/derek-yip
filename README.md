@@ -13,7 +13,7 @@
 <h1>
 Derek Yip   
 </h1>
-<h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I study final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
+<h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I am a final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
 
 <hr>
 

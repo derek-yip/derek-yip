@@ -60,9 +60,8 @@ Derek Yip
 <a href="https://github.com/locomotivemtl/locomotive-scroll"><h1>Locomotive Scroll</h1></a>
 <a href="https://github.com/locomotivemtl/locomotive-scroll"><img alt="Locomotive Scroll" src="https://user-images.githubusercontent.com/36262701/139226385-971c0930-45f2-4ab3-9f9f-a6b33734d992.png"></a>
 
+<a href="https://michalsnik.github.io/aos/"><h1>AOS Animation</h1></a>
 <a href="https://michalsnik.github.io/aos/"><img alt="AOS Animation" src="https://user-images.githubusercontent.com/101183496/190854836-d2a85fc1-8f86-446d-979b-e9344cba1465.png"></a>
-
-
 
 ### 🗄️ Databases and cloud hosting
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>

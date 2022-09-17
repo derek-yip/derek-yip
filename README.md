@@ -10,11 +10,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=300&width=435&lines=Junior+Website+Developer%2F+Software+Developer" alt="Typing SVG" /></a>
 </p>
 
-<h1>
-Derek Yip   
-</h1>
-<h3 align="left">I'm Derek Yip Kwok Chun, a passionate frontend developer from Hong Kong. I am a final year undergraduate student studing BBA Information Management as major (with Creative Media as minor) in City University of Hong Kong. </h3>
-
 <hr>
 
 ### 👨 Social Media

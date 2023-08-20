@@ -26,9 +26,9 @@
    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
    <!-- <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
-    <a href="#"><img alt="C Sharp Badge" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat"></a>
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Visual Basic Badge" src="https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=flat"></a>
+   <a href="#"><img alt="C Sharp Badge" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat"></a>
+   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+   <a href="#"><img alt="Visual Basic Badge" src="https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=flat"></a>
 </p>
 
 ### 🧰 Frameworks and libraries

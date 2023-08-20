@@ -25,18 +25,19 @@
    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-   <!-- <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
    <a href="#"><img alt="C Sharp Badge" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat"></a>
    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
    <a href="#"><img alt="Visual Basic Badge" src="https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=flat"></a>
+   <!-- <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a> -->
 </p>
 
 ### 🧰 Frameworks and libraries
+<a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="VueJs" src="https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff"></a>
+
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Tailwind CSS Badge" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat"></a>
-<a href="#"><img alt="Next" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff"></a>
 
 <!-- <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a> -->

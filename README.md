@@ -24,7 +24,7 @@
   
    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
    <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+   <!-- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a> -->
    <a href="#"><img alt="C Sharp Badge" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat"></a>
    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
    <a href="#"><img alt="Visual Basic Badge" src="https://img.shields.io/badge/Visual%20Basic-512BD4?logo=visualbasic&logoColor=fff&style=flat"></a>
@@ -44,7 +44,7 @@
 
 ### 🗄️ Databases and hosting
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?logo=linode&logoColor=fff"></a>
+<!-- <a href="#"><img alt="Linode" src="https://img.shields.io/badge/Linode-00A95C?logo=linode&logoColor=fff"></a> -->
 <a href="#"><img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff"></a>
 
